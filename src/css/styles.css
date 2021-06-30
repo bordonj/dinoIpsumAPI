@@ -1,0 +1,14 @@
+img {
+  width: 30%;
+  margin: auto;
+  display: block;
+  border-radius: 100px;
+}
+
+input, label {
+  display: block;
+}
+
+.btn {
+  margin: 1% 0;
+}
